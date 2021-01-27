@@ -1,0 +1,2 @@
+# 6thDay-jQuery-Tabs
+Friends, I'm feeling great to inform you all about my 15 days jQuery Challenge. This is the sixth day of this challenge I have created an Amazing "jQuery Tabs" with the help of jQuery. Finally i can say It was a "FANTASTIC" experience because I'm learning new things on the daily basis ... to checkout what i have cooked, click on the link - https://i1s-rishabh.github.io/5thDay-RotatedButton/ .... so let's move on to the 7th day
